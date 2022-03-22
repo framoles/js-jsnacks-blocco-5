@@ -18,7 +18,7 @@ console.log(a, b);
 
 let newArray = [];
 
-for (let i = a + 1; i < b; i++) {
+for (let i = a + 1; i < b - 1; i++) {
     newArray.push(array[i]);
 }
 
